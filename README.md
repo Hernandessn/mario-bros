@@ -9,7 +9,7 @@ Site: https://supermariobrosh.netlify.app/
 
 
 
-Este é um projeto inspirado no universo do Super Mario, desenvolvido como parte da formação no **DevClub**. O site inclui funcionalidades interativas, como um sistema de **agendamento**, além de elementos visuais temáticos e uma experiência única para os fãs do personagem.  
+Este é um projeto inspirado no universo do Super Mario. O site inclui funcionalidades interativas, como um sistema de **agendamento**, além de elementos visuais temáticos e uma experiência única para os fãs do personagem.  
 
 ---
 
